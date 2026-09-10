@@ -1,0 +1,132 @@
+{
+  "figures": [
+    {
+      "file": "page-01-image-01.png",
+      "size": [
+        977,
+        632
+      ],
+      "figure": 1,
+      "sha256": "12b92d51ef9adce652279dd9acef9f1605277f29bd9bb111e58528e9fa13cc66"
+    },
+    {
+      "file": "page-02-image-01.png",
+      "size": [
+        1001,
+        618
+      ],
+      "figure": 2,
+      "sha256": "bed5e6714c0496f4d76505c6e15caae62c845f48e5040d69b4847be9cb74c88c"
+    },
+    {
+      "file": "page-03-image-01.png",
+      "size": [
+        851,
+        785
+      ],
+      "figure": 3,
+      "sha256": "938f524d1dfd2f5c83e34dc849aeb131e913889cea00ea954afb8d57e2b05964"
+    },
+    {
+      "file": "page-03-image-02.png",
+      "size": [
+        1197,
+        618
+      ],
+      "figure": 4,
+      "sha256": "7e065aaf758187d2c38c2329447502421d63b33ca9ff0c1286486d3f0ec26194"
+    },
+    {
+      "file": "page-04-image-01.png",
+      "size": [
+        541,
+        476
+      ],
+      "figure": 5,
+      "sha256": "4ddb58f5d90e77b29315af2ef4ebce9f9c1902cd05d338e82658b3cc597ef209"
+    },
+    {
+      "file": "page-05-image-01.png",
+      "size": [
+        844,
+        551
+      ],
+      "figure": 6,
+      "sha256": "867d4d7126d0d7578bf6e736211686640d501ff85952cd120a4e8d0a3fda40ea"
+    },
+    {
+      "file": "page-05-image-02.png",
+      "size": [
+        1201,
+        540
+      ],
+      "figure": 7,
+      "sha256": "87d8bec9859820ca5c5f1a738ce374099a02eeb22c96edf780a6678f33d962d7"
+    },
+    {
+      "file": "page-06-image-01.png",
+      "size": [
+        933,
+        97
+      ],
+      "figure": 8,
+      "sha256": "18919ad8e05688ff6a2cc846100be6506aa657072a53d077b5abbf35a3cb90e8"
+    },
+    {
+      "file": "page-06-image-02.png",
+      "size": [
+        1368,
+        924
+      ],
+      "figure": 9,
+      "sha256": "eb01960a8741a2b1c8bd2b52ceac6caddca101ed8460cdec0d7978237372f7fb"
+    },
+    {
+      "file": "page-06-image-03.png",
+      "size": [
+        1419,
+        612
+      ],
+      "figure": 10,
+      "sha256": "4aa532eac119bf9ac39c346b82fae3910a4639d00c3095e06e91688a16158468"
+    },
+    {
+      "file": "page-07-image-01.png",
+      "size": [
+        1217,
+        836
+      ],
+      "figure": 11,
+      "sha256": "15023d9b24bdc4c0c23473b3ef5590d488fa8e1bad3ddb44d909693a5ef1f307"
+    },
+    {
+      "file": "page-08-image-01.png",
+      "size": [
+        1193,
+        497
+      ],
+      "figure": 12,
+      "sha256": "a81488d2398a2d705b2238862176fb51dd9a8e30cc6d7a1af557b7bcdb3bb28b"
+    },
+    {
+      "file": "page-08-image-02.png",
+      "size": [
+        781,
+        451
+      ],
+      "figure": 13,
+      "sha256": "41e277947c3f83745095e1812a83301b0ab36227cbd3849cd5be4bcdfcb21b2b"
+    },
+    {
+      "file": "page-09-image-01.png",
+      "size": [
+        1356,
+        969
+      ],
+      "figure": 14,
+      "sha256": "dbbb9b3650ae081fc7957b550d480d1c820514f8a823971f080afa31cb9ebcd3"
+    }
+  ],
+  "article": "卡通角色面部阴影优化",
+  "author": "Bytivor"
+}
