@@ -1,6 +1,6 @@
 # Bytivor 的技术小屋
 
-Hexo + Butterfly 中文博客。参考挽秋的技术小屋的布局，使用 Bytivor 的身份和头像。
+Hexo + Butterfly 中文博客，收录 Bytivor 的图形渲染笔记与作品集。
 
 ## 本地运行
 

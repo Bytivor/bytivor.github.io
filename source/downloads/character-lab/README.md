@@ -73,10 +73,7 @@ WidthCM 单位厘米；相机基底必须正交归一，Forward 指向场景。
 它不验证 UE 编译、材质节点实际接线、CustomDepth 时序或 GPU 性能。
 本文数值均为教学初值，未声称为原游戏参数。
 
-## 图像与许可
+## 许可
 
-文章配图来自挽秋《战双卡通渲染复现》，按 CC BY-NC-SA 4.0 使用；图片用于效果讲解，不是本包 UE 代码的运行截图。
-https://xiatianlaila.github.io/2023/10/14/战双卡通渲染复现/
-image-sources.json 保留图片链接、署名与校验值。通道总览右下角已替换为 AI 生成的 Body SSS Ramp 示意。
-本站改编说明与配套代码以 CC BY-NC-SA 4.0 分享。角色与资产权利归相应权利人。
+配套代码以 CC BY-NC-SA 4.0 分享。角色与资产权利归相应权利人。
 https://creativecommons.org/licenses/by-nc-sa/4.0/

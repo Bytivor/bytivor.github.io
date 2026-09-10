@@ -351,5 +351,3 @@ return 0.5 * vivid * BaseColor * OutlineColor;
 [下载 UE 材质代码](/downloads/character-lab/ue-toon-kit.zip) · [阅读接线说明](/downloads/character-lab/README.md)
 
 代码包包含五个 Custom 节点函数体、CPU 数学实现与检查脚本。按接线说明在 UE 中建立材质节点即可开始调试。包内不含 `.uproject`、模型或完整纹理；代码已完成 CPU 数学检查，尚未进行 UE 内编译与画面对照。
-
-<small>配图来源：挽秋[《战双卡通渲染复现》](https://xiatianlaila.github.io/2023/10/14/战双卡通渲染复现/)，按 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 使用；配图用于效果讲解，不是本文 UE 代码的运行截图。通道总览右下角已替换为 AI 生成的 Body SSS Ramp 示意。角色与资产权利归相应权利人。</small>

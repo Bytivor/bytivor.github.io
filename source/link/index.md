@@ -14,4 +14,3 @@ type: link
 
 - [Hexo 中文文档](https://hexo.io/zh-cn/docs/)
 - [Butterfly 主题文档](https://butterfly.js.org/)
-- [挽秋的技术小屋](https://xiatianlaila.github.io/)
