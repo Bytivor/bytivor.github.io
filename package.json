@@ -30,6 +30,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "4.10.0",
     "hexo-theme-landscape": "^1.0.0",
-    "medium-zoom": "1.1.0"
+    "medium-zoom": "1.1.2"
   }
 }
